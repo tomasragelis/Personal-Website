@@ -21,6 +21,7 @@ body {
   margin-left:0;
   margin-right:0;
   width:100%;
+  -webkit-font-smoothing: antialiased;
   
 
 }
@@ -52,7 +53,7 @@ body {
   	margin-right:auto;
 	text-align:center;
 	font-family:"gobold1";
-	text-redering:geometricPrecision;
+	text-rendering:geometricPrecision;
 	font-size:125%;
 	margin-bottom:-20px;
 	
@@ -104,7 +105,7 @@ body {
   	margin-right:auto;
 	text-align:center;
 	font-family:"gobold1";
-	text-redering:geometricPrecision;
+	text-rendering:geometricPrecision;
 	font-size:125%;
 	
 }
@@ -156,7 +157,7 @@ body {
   	margin-right:auto;
 	text-align:center;
 	font-family:"gobold1";
-	text-redering:geometricPrecision;
+	text-rendering:geometricPrecision;
 	font-size:125%;
 	margin-bottom:30px;
 			
